@@ -1,0 +1,18 @@
+.Border-style{
+  width: 30%;
+  height: auto;
+  background-color: darkseagreen;
+  margin: 15px auto 0;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.List-style{
+  background-color: #e6d9b963;
+  list-style: none;
+  position: relative;
+  width: 70%;
+  margin: 10px auto 0;
+  padding: 10px;
+  border-radius: 5px;
+}

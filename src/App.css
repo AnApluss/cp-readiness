@@ -1,0 +1,16 @@
+.App-form {
+  text-align: center;
+  color: white;
+  background-color: darkgoldenrod;
+  padding: 10px;
+}
+
+.Input-text, button{
+  padding: 10px;
+  border-radius: 5px;
+  border: 0;
+}
+
+.Input-text{
+  margin: 0 10px 0 0;
+}
